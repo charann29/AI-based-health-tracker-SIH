@@ -20,7 +20,7 @@ Our idea attempts to keep track and monitor the process of mid-day meals for stu
 <li>service if requested for the interested authorities to check the status of the program .
 </ul>
 
-### Face Recognition
+### Face Recognition for Attendance Tracking
 
 _You can also read a translated version of this file [in Chinese 简体中文版](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md) or [in Korean 한국어](https://github.com/ageitgey/face_recognition/blob/master/README_Korean.md) or [in Japanese 日本語](https://github.com/m-i-k-i/face_recognition/blob/master/README_Japanese.md)._
 
